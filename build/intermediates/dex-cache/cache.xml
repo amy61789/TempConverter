@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\amy61\Desktop\ch03_ex4_TempConverter\ch03_ex4_TempConverter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\amy61\Desktop\ch03_ex4_TempConverter\ch03_ex4_TempConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0b75214eff027aeac6325a669b99c125a5f6b92f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amy61\Desktop\ch03_ex4_TempConverter\ch03_ex4_TempConverter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="653ed1165ba7052b7043b3728793026c977a9db7">
+        <dex dex="C:\Users\amy61\Desktop\ch03_ex4_TempConverter\ch03_ex4_TempConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_285cd4a0486b4787966b737a2f4446bb9641cea2\classes.dex" />
+    </item>
+
+</items>
